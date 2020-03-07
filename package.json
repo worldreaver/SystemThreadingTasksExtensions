@@ -1,0 +1,16 @@
+{
+  "name": "com.worldreaver.systemthreadingtasksextensions",
+  "displayName": "SystemThreadingTasksExtensions",
+  "description": "Provides additional types that simplify the work of writing concurrent and asynchronous code.",
+  "version": "0.0.1",
+  "unity": "2018.3",
+  "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
+  "license": "MIT",
+  "dependencies": {
+    "com.worldreaver.systemruntimecompilerservicesunsafe": "ssh://git@github.com/worldreaver/SystemRuntimeCompilerServicesUnsafe#4.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldreaver/SystemThreadingTasksExtensions"
+  }
+}
