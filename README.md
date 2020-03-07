@@ -2,7 +2,7 @@
 
 ## What
 
-- System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0
+- System.Threading.Tasks.Extensions.4.5.3\lib\netstandard2.0
 
 ## Requirements
 [![Unity 2018.3+](https://img.shields.io/badge/unity-2018.3+-brightgreen.svg?style=flat&logo=unity&cacheSeconds=2592000)](https://unity3d.com/get-unity/download/archive)

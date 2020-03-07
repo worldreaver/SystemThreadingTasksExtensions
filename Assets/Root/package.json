@@ -2,7 +2,7 @@
   "name": "com.worldreaver.systemthreadingtasksextensions",
   "displayName": "SystemThreadingTasksExtensions",
   "description": "Provides additional types that simplify the work of writing concurrent and asynchronous code.",
-  "version": "4.5.2",
+  "version": "4.5.3",
   "unity": "2018.3",
   "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
   "license": "MIT",
